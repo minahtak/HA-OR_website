@@ -32,10 +32,10 @@ export function Hero() {
           className="space-y-6 mb-16 font-light leading-relaxed text-slate-800"
         >
           <p className="font-serif text-3xl md:text-4xl leading-snug">
-            예루살렘의 시간과<br className="hidden md:block" />빛을 큐레이션합니다.
+            예루살렘의 시간과 <br className="hidden md:block" />빛을 큐레이션합니다.
           </p>
           <p className="text-[11px] md:text-xs text-slate-500 tracking-wide font-light">
-            고대 도시의 흔적 속에서 발견한<br className="hidden md:block" />
+            고대 도시의 흔적 속에서 발견한 <br className="hidden md:block" />
             히브리어 문장들과 주얼리 에디션.
           </p>
         </motion.div>
